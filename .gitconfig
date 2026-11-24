@@ -1,3 +1,2 @@
 [user]
-	name = Anthony Laflamme
-	email = anthonylaflammex@gmail.com
+	useConfigOnly = true
