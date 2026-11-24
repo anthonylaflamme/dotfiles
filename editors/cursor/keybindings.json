@@ -1,0 +1,10 @@
+[
+    {
+        "key": "ctrl+shift+p",
+        "command": "editor.emmet.action.matchTag"
+    },
+    {
+        "key": "ctrl+d ctrl+d",
+        "command": "workbench.action.splitEditorRight"
+    }
+]
